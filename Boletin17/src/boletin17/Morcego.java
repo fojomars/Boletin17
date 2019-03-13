@@ -7,7 +7,7 @@ package boletin17;
 
 /**
  *
- * @author aparcerozas
+ * @author fojomars
  */
 public class Morcego extends Mamifero implements IPodeVoar {
     @Override
