@@ -16,13 +16,13 @@ public class Boletin17 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Gato misifu = new Gato();
-        Papagaio lorito = new Papagaio();
-        Mamifero peludo = new Mamifero();
-        misifu.nadar();
-        misifu.camiñar();
-        lorito.camiñar();
-        peludo.camiñar();
+        Gato miau = new Gato();
+        Papagaio pepito = new Papagaio();
+        Mamifero mon = new Mamifero();
+        miau.nadar();
+        miau.camiñar();
+        pepito.camiñar();
+        mon.camiñar();
     }
     
 }
